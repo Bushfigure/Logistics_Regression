@@ -21,3 +21,6 @@ The sinking of the Titanic on April 15th, 1912, is one of the most tragic traged
 * Cabin: Cabin number
 * Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 * Target Class: Survived: Survival (0 = No, 1 = Yes)
+
+![download (1)](https://github.com/user-attachments/assets/66eb287b-8b23-4081-a940-4727d4149ca6)
+
