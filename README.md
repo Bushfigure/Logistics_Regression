@@ -47,6 +47,6 @@ The Embarked column (Cherbourg, Queenstown, Southampton) may indicate some corre
 
 * Common Preprocessing Steps:
 
-Handling missing values in Age by filling them with an average or specific value (like 29 for males and 25 for females in your screenshot).
+Handling missing values in Age by filling them with an average or specific value (like 29 for males and 25 for females).
 Encoding categorical data (e.g., Sex or Embarked) into numerical values.
 
