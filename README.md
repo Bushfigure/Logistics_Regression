@@ -29,7 +29,7 @@ The sinking of the Titanic on April 15th, 1912, is one of the most tragic traged
 * Gender's Influence on Survival:
 
 The Sex column shows a clear trend where women were more likely to survive compared to men. This reflects the "women and children first" policy during the Titanic evacuation.
-For machine learning purposes, you likely converted the Sex column into binary values (e.g., male = 1, female = 0).
+For machine learning purposes, converted the Sex column into binary values (e.g., male = 1, female = 0).
 
 * Class Impact (Pclass):
 
